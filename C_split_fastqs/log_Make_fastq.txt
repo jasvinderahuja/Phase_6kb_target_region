@@ -1,0 +1,9 @@
+
+Starting iteration  61  of  8 rows.  At  2022-12-28 05:47:07 
+Starting iteration  62  of  8 rows.  At  2022-12-28 05:47:07 
+Starting iteration  63  of  8 rows.  At  2022-12-28 05:47:07 
+Starting iteration  125  of  8 rows.  At  2022-12-28 05:47:08 
+Starting iteration  64  of  8 rows.  At  2022-12-28 05:47:08 
+Starting iteration  126  of  8 rows.  At  2022-12-28 05:47:08 
+Starting iteration  128  of  8 rows.  At  2022-12-28 05:47:08 
+Starting iteration  127  of  8 rows.  At  2022-12-28 05:47:09 
