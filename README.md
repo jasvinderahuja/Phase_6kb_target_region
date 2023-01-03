@@ -192,8 +192,8 @@ GCGCTCTGTGTGCAGC
 
 ## The fastq file.
 
-Ahuja et al., 2021 was done using mostly Illumina and few Pacbio reads
-and therefore to focus on Pacbio reads lets use the Zeisel et al.,
+[Ahuja et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34453891/) was done using mostly Illumina and few Pacbio reads
+and therefore to focus on Pacbio reads lets use the [Zeisel et al.](https://pubmed.ncbi.nlm.nih.gov/36508468/),
 dataset.
 
 The raw reads from Zeisel et al., 2022 (PB7_NH2700.ccs.fastq) are
